@@ -381,7 +381,7 @@ a {
 #service .service-area {
   background: #fff;
   padding: 60px;
-  width: 70%;
+  width: 80%;
   position: relative;
   top: -50px;
   left: 10%;
@@ -435,7 +435,7 @@ a {
 
 @media screen and (max-width: 550px) {
   #service .service-area {
-    width: 90%;
+    width: 80%;
     left: 5%;
   }
 }
